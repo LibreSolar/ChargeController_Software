@@ -1,0 +1,28 @@
+var classDeviceStatus =
+[
+    [ "clear_error", "classDeviceStatus.html#a254cdf1cc522079a993720677f9e0cae", null ],
+    [ "has_error", "classDeviceStatus.html#af1f95251ee063ae9926f90eeab754c8e", null ],
+    [ "set_error", "classDeviceStatus.html#ae7369f856ec507e47ecc4e87f96cc8f8", null ],
+    [ "update_energy", "classDeviceStatus.html#ab5072532d2b0d105b9d6cbad252edc6b", null ],
+    [ "update_min_max_values", "classDeviceStatus.html#abe68482c928359268df3a07c0e2fcd53", null ],
+    [ "bat_chg_total_Wh", "classDeviceStatus.html#ae5654b6a1a11ca5e7336936392870fa2", null ],
+    [ "bat_dis_total_Wh", "classDeviceStatus.html#afb5cdb41037ad42d33be3b2dab63ce91", null ],
+    [ "bat_temp_max", "classDeviceStatus.html#ae5661dbad7109bf69e78a1ead7344493", null ],
+    [ "battery_voltage_max", "classDeviceStatus.html#a6bc53cab24e0ee9fc9fe6873316492ff", null ],
+    [ "day_counter", "classDeviceStatus.html#a9b1615e147c8596facedabb234b18d9e", null ],
+    [ "dcdc_current_max", "classDeviceStatus.html#abc2fe9e4833b9665ad0facf2d5d6a01a", null ],
+    [ "error_flags", "classDeviceStatus.html#a5f62da1d497817df8c57c8c75f2bc901", null ],
+    [ "grid_export_total_Wh", "classDeviceStatus.html#abeffc33f35f5beb03051d4e2867d0608", null ],
+    [ "grid_import_total_Wh", "classDeviceStatus.html#ad238b65085dec6a2aea2fe0aa6ab772b", null ],
+    [ "int_temp_max", "classDeviceStatus.html#a0c69cbae117e36aeb9c0221eb5ccf6ba", null ],
+    [ "internal_temp", "classDeviceStatus.html#a8af95e5296e382c5054d0b896083cb09", null ],
+    [ "load_current_max", "classDeviceStatus.html#ae65875afd7e1409be83bf34c43635655", null ],
+    [ "load_out_total_Wh", "classDeviceStatus.html#a1eed5ec09445f6ed3e56650b7a942d8b", null ],
+    [ "load_power_max_day", "classDeviceStatus.html#a292981df5286c634799e0e82657a34d6", null ],
+    [ "load_power_max_total", "classDeviceStatus.html#a653f5f0fdcef6cd58813d531861ebedf", null ],
+    [ "mosfet_temp_max", "classDeviceStatus.html#a1a781a74c0b3e9a8bc1a1659c1ee9423", null ],
+    [ "solar_in_total_Wh", "classDeviceStatus.html#a19e992e9bf15904116cb82bf258176d4", null ],
+    [ "solar_power_max_day", "classDeviceStatus.html#a5262029b6d404ec510bb7febd49dcb31", null ],
+    [ "solar_power_max_total", "classDeviceStatus.html#aada57b0603937d54ad49811369c1b3b0", null ],
+    [ "solar_voltage_max", "classDeviceStatus.html#a2a0ec46e70107c7e85f33c9c8ce5a659", null ]
+];

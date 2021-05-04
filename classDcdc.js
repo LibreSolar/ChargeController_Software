@@ -1,0 +1,27 @@
+var classDcdc =
+[
+    [ "Dcdc", "classDcdc.html#a1b7166e2159649c44261bc1edc407ad8", null ],
+    [ "check_start_conditions", "classDcdc.html#a87ff9cd1a91eb23358937a5713dcc993", null ],
+    [ "control", "classDcdc.html#ad4fa9967257ff854b5aaf1e7d4c112db", null ],
+    [ "fuse_destruction", "classDcdc.html#afae9e3de9f42acc5d1fa0a997b506ab0", null ],
+    [ "stop", "classDcdc.html#ac8f5471b62eb6b255a2e8c93af739659", null ],
+    [ "test", "classDcdc.html#a7215e0d3e8b222c129c2dc7aa3360908", null ],
+    [ "enable", "classDcdc.html#a6f5bf624f9391a184b3f9e94f552750a", null ],
+    [ "hs_voltage_max", "classDcdc.html#aaa7d3cb39db17f7a49a7dea209ad9833", null ],
+    [ "hvb", "classDcdc.html#a4df09276042a30df9c28df6965ce32cc", null ],
+    [ "inductor_current", "classDcdc.html#a93ae3f19d1211813e1aa816eb7976c12", null ],
+    [ "inductor_current_max", "classDcdc.html#a8a2e900a573ffaa254933aeba2efb110", null ],
+    [ "ls_voltage_max", "classDcdc.html#a50ef0d44cf610aeb35b52de0aa46ce37", null ],
+    [ "ls_voltage_min", "classDcdc.html#a52b25b2d8c0c615df655b8adda44fc7b", null ],
+    [ "lvb", "classDcdc.html#a6462df662b9d2dc3500e839762604e7a", null ],
+    [ "mode", "classDcdc.html#a3a9d02ef12dc190a2c09ab7f8f88c84a", null ],
+    [ "off_timestamp", "classDcdc.html#a812fd091e04199d77398c6e5347e866e", null ],
+    [ "output_power_min", "classDcdc.html#a6d3ae280d6ba4f579fb1544589dd1896", null ],
+    [ "power", "classDcdc.html#a2f2833012a9dda298c72240a59bf601e", null ],
+    [ "power_good_timestamp", "classDcdc.html#ad3da9c8b2189c0d76ea6eafddb3ed6ef", null ],
+    [ "power_prev", "classDcdc.html#a81661f12937c507e059166760cae2859", null ],
+    [ "pwm_delta", "classDcdc.html#a217b9c2164b045d812a9c9c55b386b10", null ],
+    [ "restart_interval", "classDcdc.html#a4ea68a948902a5f8aa80d670d5fd3c2f", null ],
+    [ "state", "classDcdc.html#ae237a4d26d0399eedaa82fe98408f319", null ],
+    [ "temp_mosfets", "classDcdc.html#acfad3e3ba92bfa67e7388746372eccae", null ]
+];

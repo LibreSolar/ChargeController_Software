@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['bat_5fcharger_2eh',['bat_charger.h',['../bat__charger_8h.html',1,'']]],
+  ['bat_5ftemperature',['bat_temperature',['../classCharger.html#ad2cdd72f8c6d2b0088f44122926827b1',1,'Charger']]],
+  ['bat_5ftype_5fagm',['BAT_TYPE_AGM',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1a232968d1d678438ca2d0b124ef53b9d1',1,'bat_charger.h']]],
+  ['bat_5ftype_5fcustom',['BAT_TYPE_CUSTOM',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1aa037fc1e16a5c7834578e49740bb73e3',1,'bat_charger.h']]],
+  ['bat_5ftype_5fflooded',['BAT_TYPE_FLOODED',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1aa5dcc2b6fc7a492f831d3f69e2d07547',1,'bat_charger.h']]],
+  ['bat_5ftype_5fgel',['BAT_TYPE_GEL',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1ac5bdfe5e7c221845aaebeef0f9ca8587',1,'bat_charger.h']]],
+  ['bat_5ftype_5flfp',['BAT_TYPE_LFP',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1a59ef023dfa7a40c9573ed509dee98764',1,'bat_charger.h']]],
+  ['bat_5ftype_5fnmc',['BAT_TYPE_NMC',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1a48c5dd07956d5872ab0f64ca3f5e21be',1,'bat_charger.h']]],
+  ['bat_5ftype_5fnmc_5fhv',['BAT_TYPE_NMC_HV',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1af31cd12c54b120aeef9e7084ca17938b',1,'bat_charger.h']]],
+  ['batconf',['BatConf',['../structBatConf.html',1,'']]],
+  ['battery_5fconf_5fchanged',['battery_conf_changed',['../bat__charger_8h.html#a0fcd3e360cf3b348c08ce5b95f270bb7',1,'bat_charger.cpp']]],
+  ['battery_5fconf_5fcheck',['battery_conf_check',['../bat__charger_8h.html#af846fb31026546eecf860d415b9e2381',1,'bat_charger.cpp']]],
+  ['battery_5fconf_5finit',['battery_conf_init',['../bat__charger_8h.html#a44bdb94a395090ca514b770155933259',1,'bat_charger.cpp']]],
+  ['battery_5fconf_5foverwrite',['battery_conf_overwrite',['../bat__charger_8h.html#a8741ee6b335f369491a00576be951f82',1,'bat_charger.cpp']]],
+  ['battype',['BatType',['../bat__charger_8h.html#aa11cdbd2b05183d3bc59f70fbce02ab1',1,'bat_charger.h']]],
+  ['board_2eh',['board.h',['../board_8h.html',1,'']]],
+  ['bus',['bus',['../classPowerPort.html#a18422999901d1138a6b00021ac5cb929',1,'PowerPort']]]
+];

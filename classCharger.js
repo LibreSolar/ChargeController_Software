@@ -1,0 +1,26 @@
+var classCharger =
+[
+    [ "Charger", "classCharger.html#af5a44affdea04f99a189d8aaf22d4da3", null ],
+    [ "charge_control", "classCharger.html#a65639d90dd653dae408d8f068295c93d", null ],
+    [ "detect_num_batteries", "classCharger.html#ac134cf0f91609ca4b84f47caa1271235", null ],
+    [ "discharge_control", "classCharger.html#a21cfa6bd056875b84c7ef245fdb6e167", null ],
+    [ "init_terminal", "classCharger.html#a951fbbddafdf8c6f233f1a9d6a899d35", null ],
+    [ "update_soc", "classCharger.html#a0ea0728511468c6060f1480a7d2ed7ae", null ],
+    [ "bat_temperature", "classCharger.html#ad2cdd72f8c6d2b0088f44122926827b1", null ],
+    [ "deep_dis_last_equalization", "classCharger.html#aa854e2bb2e4a11f08d532abb5523fcb5", null ],
+    [ "discharged_Ah", "classCharger.html#ab1f40ebd0bd54edb3076aac2855be9ea", null ],
+    [ "empty", "classCharger.html#a5833a993fb1dea47408ed48381898eba", null ],
+    [ "ext_temp_sensor", "classCharger.html#a9cf2c6f365e8915a49bbf010c265fc61", null ],
+    [ "full", "classCharger.html#a54035c0e5f69566290084795b4c21eb9", null ],
+    [ "num_deep_discharges", "classCharger.html#af79f5624d3098f1ca8537a226f2988f5", null ],
+    [ "num_full_charges", "classCharger.html#ae8463f780ed4e2df6c2c62a506bb06eb", null ],
+    [ "port", "classCharger.html#aebe1440a423d98a905e68d4420d75a28", null ],
+    [ "soc", "classCharger.html#aeb3b41c1c91de5b3951aa326251949c5", null ],
+    [ "soh", "classCharger.html#a742db8e04d56770eff4a2f953f360332", null ],
+    [ "state", "classCharger.html#ac01168813e9190726c9291ba65d1dda1", null ],
+    [ "target_voltage_timer", "classCharger.html#ab4eb90fba33bb0bf1067b0faa804f7d2", null ],
+    [ "time_last_equalization", "classCharger.html#abea51def6a0756c20961a1ca43e3b8de", null ],
+    [ "time_state_changed", "classCharger.html#a54dca140edceeb98e0596b51f04c4b73", null ],
+    [ "time_target_voltage_reached", "classCharger.html#a1c7f0a4b7d9db4d0040fe6056a8a54ca", null ],
+    [ "usable_capacity", "classCharger.html#aaafddd76a5333552add646c9913f8ceb", null ]
+];
